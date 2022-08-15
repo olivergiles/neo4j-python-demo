@@ -1,3 +1,5 @@
 .env
 data/
 plugins/
+.DS_store
+.ipynb_checkpoints/
